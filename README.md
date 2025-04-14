@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Tyo Wun
 
-<!--
-**teeyoone/teeyoone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Data Science undergrad at UCLA  
+🤖 I build practical AI tools to solve real-world problems
+📷 I love photography/videography, basketball, and tech that makes life easier
 
-Here are some ideas to get you started:
+### 🛠️ Languages & Tools
+- Python, JavaScript
+- GPT-4, OpenAI API
+- Pandas, NumPy, scikit-learn
+- Playwright
+- SQL, Firebase
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- Marketplace Bot: AI-powered negotiation assistant for Facebook Marketplace (Coming soon!)
+- More projects coming as I build my portfolio
+
+### 📫 Reach out
+- [LinkedIn](https://www.linkedin.com/in/tyo-wun/)  
+- Email: tyo.wun2004@gmail.com
